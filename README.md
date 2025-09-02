@@ -2,7 +2,7 @@
 Hey, I'm Akshata Pandit
 
 
-Passionate Programmer | Tech explorer | Python developer
+Passionate Programmer | Tech explorer
 
 
 
